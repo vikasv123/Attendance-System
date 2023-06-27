@@ -1,0 +1,6 @@
+Flask
+face-recognition
+dlib
+opencv-python
+numpy
+datetime
